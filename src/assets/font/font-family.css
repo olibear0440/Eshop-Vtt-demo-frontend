@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Cycling";
+    src: url(./CYCLING_.TTF) format("truetype");
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Ddrags";
+    src: url(./DIRTY\ DRAGS\ Free\ Trial.woff) format("truetype");
+    font-display: swap;
+  }
